@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * Автор программы: Бобоев Азизджон 11-707
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
